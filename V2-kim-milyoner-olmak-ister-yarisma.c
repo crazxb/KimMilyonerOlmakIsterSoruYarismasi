@@ -57,7 +57,6 @@ int main(){
         tanitim();
         
         do{  //10. soruya kadar soruları döndüren do while döngüsü
-            printf("\nŞu anda %d. sorudasın\n",soru_sayaci);
             yonlendir();
             x=CVPkontrol();
             if(x==1){
@@ -106,6 +105,7 @@ int main(){
 
 //<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<fONKSİYONLATRIN TANIMLAMALARI>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 void tanitim(){
+    system("CLS");
     printf("\nMerhaba! Kim Milyoner Olmak İster Yarışmasına Hoşgeldin!\nSeni daha iyi tanıyabilmemiz için lütfen adını gir: ");   
     gets(isim);
     Sleep(500); 
@@ -225,6 +225,8 @@ void yonlendir(){
 
     if(soru_sayaci>=1 && soru_sayaci<=3){
         random_deger=1+rand()%25;
+        system("CLS");
+        printf("\nŞu anda %d. sorudasın\n",soru_sayaci);
         RandSoru();
         Siklar();
         cevapAl_Byap();
@@ -234,6 +236,8 @@ void yonlendir(){
         if(random_deger <= 25){
             random_deger=random_deger+25;
         }
+        system("CLS");
+        printf("\nŞu anda %d. sorudasın\n",soru_sayaci);
         RandSoru();
         Siklar();
         cevapAl_Byap();
@@ -242,7 +246,9 @@ void yonlendir(){
         random_deger=1+rand()%25;
         if(random_deger <= 50){
             random_deger=random_deger+50;
-        }    
+        }
+        system("CLS");
+        printf("\nŞu anda %d. sorudasın\n",soru_sayaci);    
         RandSoru();
         Siklar();
         cevapAl_Byap();

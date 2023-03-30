@@ -1,75 +1,75 @@
-)Hangi sorunun muhatabı genellikle çocuklardır?
-)Çok üzülen birinin, halk arasında, burnunun nesinin sızladığı söylenir?
-)"Becerikli, zeki, güçlü" anlamında kullanılan kelime hangisidir?
-)Hangi enstrüman hem dizlerin arasına hem koltuk altına konularak çalınır?
-)Masal sonlarında, karakterlerin ne kadarlık süre boyunca mutlu yaşadıklarını öğreniriz?
-)Bir trilyonda kaç adet sıfır vardır?
-)Eğer karşınızdakı ekranda "sezon finali" yazıyorsa hangisini izliyorsunuz demektir?
-)Bir kasedeki 27 kaju fıstığının 9'u hariç hepsini yerseniz kasede kaç kaju fıstığı kalır?
-)Halk arasında birbirine gücenen iki dostun arasına girdiği söylenen hayvan hangisidir?
-)Pazarda ya da manavda hangisinin “yemelik ve sıkmalık” olarak ayrıldığı görülür?
-)“Keyifli, sevinçli” anlamında kullanılan söz hangisidir?
-)Yaşça büyük akrabalar “Gencçin yanında bulunsun” cümlesini hangisini verirken söylerler?
-)Birinin sesini duymadan ağız hareketlerine bakarak konuşmasını anlamak hangisiyle ifade edilir?
-)Harry Potter adlı roman serisinin altıncı kitabının adında geçen "Melez Prens", serideki hangi karakterdir?
-)Bilgisayar programlarının daha küçük ve birçok özelliği kısıtlanmıs tanıtım amaçlı sürümleri hangi isimle anılır?
-)Trafiğin durma noktasına geldiği durumlar hangisi ile ifade edilir?
-)Üzerine yağ dökülen kıyafetlere ilk yardım uygulamak için, lekenin olduğu yere hangisinden bolca dökülür?
-)ABD Savunma Bakanlığı'nın genel merkez binası olan “Pentagon”un anlamı nedir?
-)Hangisi ünlü masaldaki Kırmızı Başlıklı Kız’ın şüphelenmesi sonucu büyükannesi kılığındakı kurda sorduğu sorulardan biri değildir?
-)Patates cipsi paketleri, içindeki cipslerin taze kalmasi için genellikle hangi gazla doldurulur?
-)a=2*4+(4*3+2-8/8)+6/2-8 işleminin sonucu nedir?
-)C dilinde kullanılan "break" komutu ne işe yarar?
-)1011 1000 & 0001 1100 işleminin sonucu nedir?
-)1100 1001 ikilik sistemde yazılan sayının bir kez sola kaydırılmış hali aşağıdakilerden hangisidir?
-)C dilinde kullanılan "scanf" komutu ne işe yaramaktadır?
-)Okutulan tarih kitabında anlatılan  ve taraflaran birinde Avusturya-Macaristan imparatorluğu'nun yer aşldığı savaş hangisi olabilir?
-)Süper Lig'deki hangi futbol takımından "Akrepler" lakabıyla bahsedilir?
-)"Neşeli Günler" adlı filmde Münir Özkul ve Adile Naşit'in canlandırdığı turşu ve turşu suyunun iyisi konusunda kavga eden karakterlerin adları nelerdir?
-)"Yerli Elvis", 1970'lerde Türk müziğinde önde gelen isimlerdendi" cümlesinin geçtiği bir haberde bahisedilen hangisi olabilir?
-)Hangi bilgi yanlıştır?
-)"Basketbolda rakibe yüklenip aniden geri çekilerek  ve dönerken zıplayarak atılan şut" hangisinin sözlük tanımıdır?
-)"Elli dokuzdan sonra gelen sayının adı" hangi kelimenin TDK Güncel Türkçe Sözlük'teki tanımıdır?
-)Hangisi Halit Akçetepe'nin rol aldığı bir film değildiğr?
-)Aracından dşarı çıkarak uzayda "yürüyen" ilk insan kimdir?
-)Hangisi bir çeşit acı bala verilen addır?
-)Pireneler'e tırmanan bir dağcı hangi kıtadadır?
-)"Atatürk'ün Samsun'a çıktığı gün" doğan bir bebek Türkiye'de cumghuriyet ilan edildiğinde kaç aylıktır?
-)Ömer Seyfetti'nin hangi adda bir hikayesi vardıdr?
-)Hangisi doğrudur?
-)Dünya atmosferinin yaklaşık yüzde 78'ini oluşturan elementin simgesi nedir?
-)Başrolun Şener Şen'in olduğu "Selamsız Bandosu" adlı filmin hikayesinin geçtiği kurgusal kasabanın adı nedir?
-)Hangi ülkenin hem Yunanistan'la hem de Bulgaristan'la sınırı vardır?
-)UEFA Şmpiyonlar Liginde 7 kez kaybederek "Şampiyonlar Ligi finalinde en çok kaybeden futbol takımı" ünvanına sahip olan hangisidi?
-)"Perşembe'den Çarşamba'ya giderek zamanda yolculuk yaptım" diyen biri hangi illerin arasında yaptığı yolculuğu espirili bir dille anlatmış olur?
-)Hangi ünlü film karakteri Vietnam Savaşı'na katılmıştır?
-)Aşağıdaki kod çalıştırıldığında ekran çıktısı ne olur? ==> printf(“%d”, (3-2)*5-2/4 );		
-)Hangisi C dilinin temel özelliklerinden biri değildir?
-)C ilk olarak nerede kullanılmıştır?
-)printf komutu kullanırken üç kez bip sesi çıkarabilmesi için yazılması gereken kod hangisidir?
-)x = 5 > 8 ? 10 : 1 != 2 < 5 ? 20 : 30; ==>X kaç olur?
-)Yedi renkten oluşan gökkuşağının ortasındaki renk hangisidir?
-)Dede Korkut'un Türk Destanları'nın özgün kopyaları hangi iki kentte bulunmaktadır?
-)Her 100 yılda 7 cm yere yaklaşan Pisa kulesi hangi yöne doğru eğilmektedir?
-)Türkiye'nin hapis cezası alan ilk bilgisayar korsanı kimdir?
-)Aspirinin ham maddesi olan ağaç hangisidir?
-)Türkiye'nin Karadeniz'deki en büyük adası hangi şehirle aynı adı taşır?
-)Hangisinde yazım yanlışı yapılmamıştır?
-)Başta Kanada olmak üzere 17. ve 18. yüzyıllarda birçok Fransız kolonisinde hangisi para olarak kullanılmıştır?
-)1 karat elmas kaç miligram ağırlıgındadır? 
-)Apa Sherpa hangisini yirmi bir kez yapmıştır?
-)1453'te ölen bir Meksikalı, hayatı boyunca hangisini yemiş olamaz? 
-)18 Ocak 1871'de Alman soyluları hangi şehrin yakınlarında bir sarayda toplanıp Alman İmparatorluğu'nun kuruluşunu ilan etmişlerdir?
-)İtalyancadan Türkçeye geçen "tavla" kelimesinin kökeninin anlamı nedir?
-)ABD başkanlarının besledikleri resmi hayvanları arasında hangisi yoktur?
-)Çoğunlukla eski el yazması kitapların kenarlarında bulunan altın rengi süslemeler hangi sanat eserinin örneklerindendir?
-)Scoville ölçeği hangisini ölçer?
-)Hangi canlının bir türü günde yaklaşık 250 kez tekrarlanan ve ortalama 1 dakika süren uykuya dalar?
-)Hangi hayvanın bazı türleri popolarıyla nefes alabilir?
-)Beslenmesinde balık dışında başka ete yer vermeyen kişilere ne denir?
-)Türkçede kelimeler en çok hangi harfle başlar?
-)C programcılığında "00001100 & 00011001" ifadesinin sonucu hangisidir?
-)C programcılığında "212 >> 8" ifadesinin sonucu hangisidir?
-)C programcılığında "int a=7; int b=19; b + 28 / a % 3; ifadesinin sonucu hangisidir?
-)C programcılığında "int a=8; int b=24; int sonuc; sonuc = a * 2 + b / 3;" ifadesinde sonuc değişkeni hangi değeri alır?
-)C programcılığında "00001100 | 00011001" ifadesinin sonucu hangisidir?
+Hangi sorunun muhatabı genellikle çocuklardır?
+Çok üzülen birinin, halk arasında, burnunun nesinin sızladığı söylenir?
+"Becerikli, zeki, güçlü" anlamında kullanılan kelime hangisidir?
+Hangi enstrüman hem dizlerin arasına hem koltuk altına konularak çalınır?
+Masal sonlarında, karakterlerin ne kadarlık süre boyunca mutlu yaşadıklarını öğreniriz?
+Bir trilyonda kaç adet sıfır vardır?
+Eğer karşınızdakı ekranda "sezon finali" yazıyorsa hangisini izliyorsunuz demektir?
+Bir kasedeki 27 kaju fıstığının 9'u hariç hepsini yerseniz kasede kaç kaju fıstığı kalır?
+Halk arasında birbirine gücenen iki dostun arasına girdiği söylenen hayvan hangisidir?
+Pazarda ya da manavda hangisinin “yemelik ve sıkmalık” olarak ayrıldığı görülür?
+“Keyifli, sevinçli” anlamında kullanılan söz hangisidir?
+Yaşça büyük akrabalar “Gencçin yanında bulunsun” cümlesini hangisini verirken söylerler?
+Birinin sesini duymadan ağız hareketlerine bakarak konuşmasını anlamak hangisiyle ifade edilir?
+Harry Potter adlı roman serisinin altıncı kitabının adında geçen "Melez Prens", serideki hangi karakterdir?
+Bilgisayar programlarının daha küçük ve birçok özelliği kısıtlanmıs tanıtım amaçlı sürümleri hangi isimle anılır?
+Trafiğin durma noktasına geldiği durumlar hangisi ile ifade edilir?
+Üzerine yağ dökülen kıyafetlere ilk yardım uygulamak için, lekenin olduğu yere hangisinden bolca dökülür?
+ABD Savunma Bakanlığı'nın genel merkez binası olan “Pentagon”un anlamı nedir?
+Hangisi ünlü masaldaki Kırmızı Başlıklı Kız’ın şüphelenmesi sonucu büyükannesi kılığındakı kurda sorduğu sorulardan biri değildir?
+Patates cipsi paketleri, içindeki cipslerin taze kalmasi için genellikle hangi gazla doldurulur?
+a=2*4+(4*3+2-8/8 +6/2-8 işleminin sonucu nedir?
+C dilinde kullanılan "break" komutu ne işe yarar?
+1011 1000 & 0001 1100 işleminin sonucu nedir?
+1100 1001 ikilik sistemde yazılan sayının bir kez sola kaydırılmış hali aşağıdakilerden hangisidir?
+C dilinde kullanılan "scanf" komutu ne işe yaramaktadır?
+Okutulan tarih kitabında anlatılan  ve taraflaran birinde Avusturya-Macaristan imparatorluğu'nun yer aşldığı savaş hangisi olabilir?
+Süper Lig'deki hangi futbol takımından "Akrepler" lakabıyla bahsedilir?
+"Neşeli Günler" adlı filmde Münir Özkul ve Adile Naşit'in canlandırdığı turşu ve turşu suyunun iyisi konusunda kavga eden karakterlerin adları nelerdir?
+"Yerli Elvis", 1970'lerde Türk müziğinde önde gelen isimlerdendi" cümlesinin geçtiği bir haberde bahisedilen hangisi olabilir?
+Hangi bilgi yanlıştır?
+"Basketbolda rakibe yüklenip aniden geri çekilerek  ve dönerken zıplayarak atılan şut" hangisinin sözlük tanımıdır?
+"Elli dokuzdan sonra gelen sayının adı" hangi kelimenin TDK Güncel Türkçe Sözlük'teki tanımıdır?
+Hangisi Halit Akçetepe'nin rol aldığı bir film değildiğr?
+Aracından dşarı çıkarak uzayda "yürüyen" ilk insan kimdir?
+Hangisi bir çeşit acı bala verilen addır?
+Pireneler'e tırmanan bir dağcı hangi kıtadadır?
+"Atatürk'ün Samsun'a çıktığı gün" doğan bir bebek Türkiye'de cumghuriyet ilan edildiğinde kaç aylıktır?
+Ömer Seyfetti'nin hangi adda bir hikayesi vardıdr?
+Hangisi doğrudur?
+Dünya atmosferinin yaklaşık yüzde 78'ini oluşturan elementin simgesi nedir?
+Başrolun Şener Şen'in olduğu "Selamsız Bandosu" adlı filmin hikayesinin geçtiği kurgusal kasabanın adı nedir?
+Hangi ülkenin hem Yunanistan'la hem de Bulgaristan'la sınırı vardır?
+UEFA Şmpiyonlar Liginde 7 kez kaybederek "Şampiyonlar Ligi finalinde en çok kaybeden futbol takımı" ünvanına sahip olan hangisidi?
+"Perşembe'den Çarşamba'ya giderek zamanda yolculuk yaptım" diyen biri hangi illerin arasında yaptığı yolculuğu espirili bir dille anlatmış olur?
+Hangi ünlü film karakteri Vietnam Savaşı'na katılmıştır?
+Aşağıdaki kod çalıştırıldığında ekran çıktısı ne olur? ==> printf(“%d”, (3-2 *5-2/4  ;		
+Hangisi C dilinin temel özelliklerinden biri değildir?
+C ilk olarak nerede kullanılmıştır?
+printf komutu kullanırken üç kez bip sesi çıkarabilmesi için yazılması gereken kod hangisidir?
+x = 5 > 8 ? 10 : 1 != 2 < 5 ? 20 : 30; ==>X kaç olur?
+Yedi renkten oluşan gökkuşağının ortasındaki renk hangisidir?
+Dede Korkut'un Türk Destanları'nın özgün kopyaları hangi iki kentte bulunmaktadır?
+Her 100 yılda 7 cm yere yaklaşan Pisa kulesi hangi yöne doğru eğilmektedir?
+Türkiye'nin hapis cezası alan ilk bilgisayar korsanı kimdir?
+Aspirinin ham maddesi olan ağaç hangisidir?
+Türkiye'nin Karadeniz'deki en büyük adası hangi şehirle aynı adı taşır?
+Hangisinde yazım yanlışı yapılmamıştır?
+Başta Kanada olmak üzere 17. ve 18. yüzyıllarda birçok Fransız kolonisinde hangisi para olarak kullanılmıştır?
+1 karat elmas kaç miligram ağırlıgındadır? 
+ Apa Sherpa hangisini yirmi bir kez yapmıştır?
+ 1453'te ölen bir Meksikalı, hayatı boyunca hangisini yemiş olamaz? 
+ 18 Ocak 1871'de Alman soyluları hangi şehrin yakınlarında bir sarayda toplanıp Alman İmparatorluğu'nun kuruluşunu ilan etmişlerdir?
+ İtalyancadan Türkçeye geçen "tavla" kelimesinin kökeninin anlamı nedir?
+ ABD başkanlarının besledikleri resmi hayvanları arasında hangisi yoktur?
+ Çoğunlukla eski el yazması kitapların kenarlarında bulunan altın rengi süslemeler hangi sanat eserinin örneklerindendir?
+ Scoville ölçeği hangisini ölçer?
+ Hangi canlının bir türü günde yaklaşık 250 kez tekrarlanan ve ortalama 1 dakika süren uykuya dalar?
+ Hangi hayvanın bazı türleri popolarıyla nefes alabilir?
+ Beslenmesinde balık dışında başka ete yer vermeyen kişilere ne denir?
+ Türkçede kelimeler en çok hangi harfle başlar?
+ C programcılığında "00001100 & 00011001" ifadesinin sonucu hangisidir?
+ C programcılığında "212 >> 8" ifadesinin sonucu hangisidir?
+ C programcılığında "int a=7; int b=19; b + 28 / a % 3; ifadesinin sonucu hangisidir?
+ C programcılığında "int a=8; int b=24; int sonuc; sonuc = a * 2 + b / 3;" ifadesinde sonuc değişkeni hangi değeri alır?
+ C programcılığında "00001100 | 00011001" ifadesinin sonucu hangisidir?
