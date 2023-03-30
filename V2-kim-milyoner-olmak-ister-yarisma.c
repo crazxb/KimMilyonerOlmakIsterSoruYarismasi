@@ -90,7 +90,7 @@ int main(){
             soru_sayaci=1, yyJokeri_sayaci=0, icJokeri_sayaci=0, ysJokeri_sayaci=0;
         }    
         else if(cevap[0]=='E'){
-            printf("Yarışmadan %d ₺ ile çekildin\n",para);
+            printf("Yarışmadan %d ₺ ile çekildiniz.\n",para);
         }
         else if(x==0){
             printf("Tekrar oynamak ister misiniz? Evet(E) veya Hayır(H) tuşlayınız.\t\n\n");
@@ -182,7 +182,7 @@ void ikiCevapJ(){
     
     if(icJokeri_sayaci==0) 
     {        
-        if(soru_sayaci>7){ //Cevap yanlışsa tekrar cevap hakkı tanı CVPKontrol() fonk yolla. soru_sayacia göre bakıp ona uygun cevap anahtarını seçer girdiği şık yanlışsa tekrar hak tanır. 
+        if(soru_sayaci>7){ //Cevap yanlışsa tekrar cevap hakkı tanı CVPKontrol() fonk yolla. soru_sayacina göre bakıp ona uygun cevap anahtarını seçer girdiği şık yanlışsa tekrar hak tanır. 
             icJokeri_sayaci++;
             cevapAl_Byap();
            
@@ -193,7 +193,7 @@ void ikiCevapJ(){
             }
         }
         else{
-            printf("Şu an kullanamazsın;7. soruya ulaşıp doğru bilirsen kullanılabilir.\n");
+            printf("Şu anda kullanamazsın;7. soruya ulaşıp doğru bilirsen kullanabilirsin.\n");
             cevapAl_Byap();
             CVPkontrol();
         }
@@ -229,6 +229,7 @@ void yonlendir(){
         printf("\nŞu anda %d. sorudasın\n",soru_sayaci);
         RandSoru();
         Siklar();
+        printf("\nJokerler için Yeni Soru Jokeri:ys/YS Yarı Yarıya Jokeri:yy/YY İki Cevap Jokeri:ic/İC\n");
         cevapAl_Byap();
     }
     else if(soru_sayaci>3 && soru_sayaci<=7){
@@ -240,6 +241,7 @@ void yonlendir(){
         printf("\nŞu anda %d. sorudasın\n",soru_sayaci);
         RandSoru();
         Siklar();
+        printf("\nJokerler için Yeni Soru Jokeri:ys/YS Yarı Yarıya Jokeri:yy/YY İki Cevap Jokeri:ic/İC\n");
         cevapAl_Byap();
     }
     else if(soru_sayaci>7 && soru_sayaci<=10){
@@ -251,6 +253,7 @@ void yonlendir(){
         printf("\nŞu anda %d. sorudasın\n",soru_sayaci);    
         RandSoru();
         Siklar();
+        printf("\nJokerler için Yeni Soru Jokeri:ys/YS Yarı Yarıya Jokeri:yy/YY İki Cevap Jokeri:ic/İC\n");
         cevapAl_Byap();
     }
 }
